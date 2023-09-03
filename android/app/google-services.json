@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "117385232890",
+    "project_id": "poojashop-100ad",
+    "storage_bucket": "poojashop-100ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117385232890:android:c3421faa65b8e4c3cf2443",
+        "android_client_info": {
+          "package_name": "com.example.pooja_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117385232890-5amttnujvgl9c5p15iojdmsjs8i4mgqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7fzlptpKiecPNb4LX6wGIjZb5NBeDtLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117385232890-5amttnujvgl9c5p15iojdmsjs8i4mgqg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "117385232890-5kifj6vlelneqcc008clmo80pahdeo1l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.poojaShop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
